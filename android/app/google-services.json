@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725361633555",
+    "project_id": "mynotes2-flutter-project-vezit",
+    "storage_bucket": "mynotes2-flutter-project-vezit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725361633555:android:977e44574b30d99eab12e6",
+        "android_client_info": {
+          "package_name": "net.vezit.mynotes2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725361633555-ntvdhkr8bo3frduvv8jtgph2iubnhat3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XwI2B0-zWxYG-sqYNHuZHFDvn-fXmbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725361633555-ntvdhkr8bo3frduvv8jtgph2iubnhat3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
