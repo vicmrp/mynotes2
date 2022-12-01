@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"editor.hover.enabled": true,
+		"editor.hover.enabled": false,
 	}
 }
